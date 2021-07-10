@@ -1,0 +1,5 @@
+* cl-espeak: A Common Lisp Binding for Espeak
+  ** Dependencies
+    espeak-ng
+    SBCL
+  
